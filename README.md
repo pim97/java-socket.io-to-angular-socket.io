@@ -1,5 +1,9 @@
 # Sockets
 
+![alt text](https://i.gyazo.com/46ac1834050c07542d573189d01a2798.png)
+
+Made with AdminLTE 3
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
 ## Development server
