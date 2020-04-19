@@ -2,8 +2,8 @@
 This is an auto-updating table with websockets using the power of Observables in Angular.
 
 # Server
-netty-socketio to provie socket.io library for java
-gson to parse java object to JSON format to send via websocket\
+netty-socketio to provie socket.io library for java\
+gson to parse java object to JSON format to send via websocket
 
 # Client
 adminLTE 3 for angular\
